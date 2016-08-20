@@ -1,7 +1,9 @@
 #	git branch xxxxbranch
 #   git chekout xxxxbranch
 
-the bug 101 had been fix on the branch later to merge
+the bug 101 had been fix on the branch later to merge with feature and master
+
+
 #	git merge feature_1
 
 #git stash 可以存储当前的工作现场
