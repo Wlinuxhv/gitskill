@@ -3,7 +3,6 @@
 
 the bug 101 had been fix on the branch later to merge with feature and master
 
-
 #	git merge feature_1
 
 #git stash 可以存储当前的工作现场
@@ -13,14 +12,8 @@ the bug 101 had been fix on the branch later to merge with feature and master
 #git stash drop 可以删除状态【栈中的内容】
 #git stash pop相当于之前的两步
 
-
 # git checkout -b <name> 切换并转换到name分支
 
 # git status 可以查看目前的状态
 
-=======
-#	Switched to branch 'dev'
-
-
-
-
+# there is a bug 101 to be fix
