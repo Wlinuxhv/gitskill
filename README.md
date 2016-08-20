@@ -1,6 +1,7 @@
 #	git branch xxxxbranch
 #   git chekout xxxxbranch
 
+the bug 101 had been fix on the branch later to merge
 #	git merge feature_1
 
 #git stash 可以存储当前的工作现场
@@ -15,6 +16,8 @@
 
 # git status 可以查看目前的状态
 
+=======
+#	Switched to branch 'dev'
 
 
 
